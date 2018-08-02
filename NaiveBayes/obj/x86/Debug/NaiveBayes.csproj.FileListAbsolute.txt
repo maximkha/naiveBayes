@@ -1,0 +1,6 @@
+/Users/maxkhanov/Projects/NaiveBayes/NaiveBayes/bin/Debug/NaiveBayes.exe
+/Users/maxkhanov/Projects/NaiveBayes/NaiveBayes/bin/Debug/NaiveBayes.pdb
+/Users/maxkhanov/Projects/NaiveBayes/NaiveBayes/obj/x86/Debug/NaiveBayes.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/NaiveBayes/NaiveBayes/obj/x86/Debug/NaiveBayes.exe
+/Users/maxkhanov/Projects/NaiveBayes/NaiveBayes/obj/x86/Debug/NaiveBayes.pdb
+/Users/maxkhanov/Projects/NaiveBayes/NaiveBayes/obj/x86/Debug/NaiveBayes.csprojResolveAssemblyReference.cache
